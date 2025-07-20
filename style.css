@@ -36,7 +36,23 @@ footer {
 }
 
 .pfp {
-    height: 300px;
-    width: 320px;
+    height: 350px;
+    width: auto;
     border-radius: 500px;
+}
+
+.image-text-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 60px;
+    margin-top: 20px;
+}
+
+.firstbio {
+    font-size: 30px;
+}
+
+.pbio {
+    font-size: 20px;
 }
