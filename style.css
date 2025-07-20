@@ -9,11 +9,11 @@ html, body {
 
 .bimg {
     height: 40px;
-    margin: 0 3px;
+    margin: 0 2px;
 }
 
 footer {
-    margin-top: auto; /* pushes footer to bottom */
+    margin-top: auto; 
     text-align: center;
     padding: 20px;
 }
