@@ -9,7 +9,7 @@ html, body {
 
 .bimg {
     height: 40px;
-    margin: 0 10px;
+    margin: 0 3px;
 }
 
 footer {
@@ -24,4 +24,19 @@ footer {
 
 .bottom-nav a {
     text-decoration: none;
+}
+
+.firstname {
+    font-size: 100px;
+    margin-bottom: 10px;
+}
+
+.bio {
+    font-size: 30px;
+}
+
+.pfp {
+    height: 300px;
+    width: 320px;
+    border-radius: 500px;
 }
